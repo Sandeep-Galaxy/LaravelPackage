@@ -1,0 +1,21 @@
+{
+    "name": "Flower/Contact",
+    "description": "A test package for Laravel.",
+    "type": "project",
+    "license": "CC",
+    "authors": [
+        {
+            "name": "Sandeep Pandey",
+            "email": "sandeep.pandey@galaxyweblinks.in"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Flower\\Contact\\ContactServiceprovider"
+            ]
+        }
+    }
+}
