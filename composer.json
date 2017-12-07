@@ -11,6 +11,11 @@
     ],
     "minimum-stability": "stable",
     "require": {},
+    "autoload": {
+        "psr-4": {
+            "Flower\\Contact\\": "src/"
+        }
+    },
     "extra": {
         "laravel": {
             "providers": [
