@@ -9,7 +9,6 @@
             "email": "sandeep.pandey@galaxyweblinks.in"
         }
     ],
-    "minimum-stability": "stable",
     "require": {},
     "autoload": {
         "psr-4": {
