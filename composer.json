@@ -21,6 +21,9 @@
             "providers": [
                 "Flower\\Contact\\ContactServiceprovider"
             ]
+        },
+	"branch-alias": {
+            "dev-master": "1.0"
         }
     }
 }
